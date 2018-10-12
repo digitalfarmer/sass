@@ -1,0 +1,9 @@
+$huruf-bersambung:'Charmonman', cursive;
+$ukuran-huruf:34px;
+$warna-huruf:#132fce;
+
+h1{
+    font-family: $huruf-bersambung;
+    font-size: $ukuran-huruf;
+    color: $warna-huruf;
+}
